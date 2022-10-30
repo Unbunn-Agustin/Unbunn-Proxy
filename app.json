@@ -5,7 +5,7 @@
     "env": {
         "KEY": {
             "description": "The key used to access proxy.",
-            "generator": "secret"
+            "generator": ""
         },
         "TIMEOUT": {
             "description": "The number of seconds before a request times out and is retried.",
